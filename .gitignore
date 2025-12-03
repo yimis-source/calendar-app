@@ -7,6 +7,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.gitignore
+
+credentials.json
+token.json
+
+./venv
 # C extensions
 *.so
 
